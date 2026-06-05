@@ -71,4 +71,5 @@ This project presents an interactive Power BI dashboard built using Blinkit groc
 - Customer ratings show consistent satisfaction across outlet types.
 - Tier 3 locations demonstrate strong sales performance.
 
-## Project Structure
+## Project Overview
+![Blinkit Dashboard](asus.jpg)
