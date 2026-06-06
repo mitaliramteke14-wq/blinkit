@@ -109,7 +109,7 @@ blinkit-dashboard/
 │
 ├── BlinkIT Dashboard.pbix        # Power BI Dashboard file
 ├── blinkit.jpg                   # Dashboard preview image
-└── README.md                     # Documentation
+└── README.md ```                    # Documentation
 
 ---
 🤝 Connect with Me
