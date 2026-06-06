@@ -1,6 +1,7 @@
 # Blinkit Data Analytics Dashboard 📊
 
-## Overview
+## Project Overview
+![Blinkit Dashboard](blinkit.png)
 
 This project presents an interactive Power BI dashboard built using Blinkit grocery sales data. The dashboard helps analyze sales performance, customer behavior, outlet efficiency, and product trends through meaningful visualizations and KPIs.
 
@@ -70,6 +71,3 @@ This project presents an interactive Power BI dashboard built using Blinkit groc
 - Medium-sized outlets contribute significantly to overall sales.
 - Customer ratings show consistent satisfaction across outlet types.
 - Tier 3 locations demonstrate strong sales performance.
-
-## Project Overview
-![Blinkit Dashboard](asus.jpg)
