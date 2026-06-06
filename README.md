@@ -112,7 +112,7 @@ blinkit-dashboard/
 └── README.md                     # Documentation
 
 ---
-##🤝 Connect with Me
+🤝 Connect with Me
 LinkedIn: www.linkedin.com/in/mitali-ramteke-141679m
 
 Email: mitali.ramteke14@gmail.com
