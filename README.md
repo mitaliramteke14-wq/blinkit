@@ -108,9 +108,10 @@ Medium-sized outlets capture the largest market share split (**$370.99K / 37.2%*
 blinkit-dashboard/
 │
 ├── BlinkIT Dashboard.pbix        # Power BI Dashboard file
-|── blinkit.jpg     # Dashboard documentation image
-└── README.md
+├── blinkit.jpg                   # Dashboard preview image
+└── README.md                     # Documentation
 
-- Medium-sized outlets contribute significantly to overall sales.
-- Customer ratings show consistent satisfaction across outlet types.
-- Tier 3 locations demonstrate strong sales performance.
+**🤝 Connect with Me
+LinkedIn: www.linkedin.com/in/mitali-ramteke-141679m
+
+Email: mitali.ramteke14@gmail.com
