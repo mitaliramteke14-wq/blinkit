@@ -110,7 +110,10 @@ blinkit-dashboard/
 ├── BlinkIT Dashboard.pbix        # Power BI Dashboard file
 ├── blinkit.jpg                   # Dashboard preview image
 └── README.md                     # Documentation
-```text
+```
 ---
 
-## Cfcd
+## 🤝 Connect with Me
+
+* 💼 **LinkedIn:** [Mitali Ramteke](https://www.linkedin.com/in/mitali-ramteke-141679m)
+* ✉️ **Email:** mitali.ramteke14@gmail.com
