@@ -6,7 +6,7 @@
 
 ## 🖼️ Dashboard Preview
 
-![Blinkit Dashboard](assets/blinkit.jpg)
+![Blinkit Dashboard](blinkit.jpg)
 ---
 
 ## 🚀 Project Overview
@@ -34,7 +34,7 @@ Blinkit operates across multiple outlet types, geographic tiers, and product cat
 ## 🛠️ Tech Stack & Advanced Implementation
 
 | Layer | Tools Used | Key Application |
-|:---|:---|---|
+|:---|:---|:---|
 | **BI & Visualization** | Power BI Desktop | Executive-ready dashboarding |
 | **Data Transformation** | Power Query | ETL, null value handling, custom column casting |
 | **Analytical Engine** | DAX | Explicit measures, dynamic KPI switching, conditional metrics |
@@ -49,12 +49,12 @@ Blinkit operates across multiple outlet types, geographic tiers, and product cat
 
 ## 📈 Key KPIs Tracked
 
-| KPI | Value | Business Significance |
-|:---|:---|:---|
-| 💰 **Total Sales** | **$997.16K** | Aggregate revenue health across the delivery pipeline |
-| 📦 **No. of Items** | **7K** | Total product volume/SKUs processed and cleared |
-| 📊 **Average Sales** | **$141.00** | Mean revenue generated per unit item |
-| ⭐ **Average Rating** | **3.92 / 5.0** | Consolidated customer satisfaction benchmark |
+| Metric / KPI | Consolidated Value | Business Significance |
+| :--- | :---: | :--- |
+| 💰 **Total Sales** | `$997.16K` | Aggregate revenue health across the delivery pipeline |
+| 📦 **No. of Items** | `7K` | Total product volume/SKUs processed and cleared |
+| 📊 **Average Sales** | `$141.00` | Mean revenue generated per unit item |
+| ⭐ **Average Rating** | `3.92 / 5.0` | Consolidated customer satisfaction benchmark |
 
 ---
 
@@ -108,8 +108,7 @@ Medium-sized outlets capture the largest market share split (**$370.99K / 37.2%*
 blinkit-dashboard/
 │
 ├── BlinkIT Dashboard.pbix        # Power BI Dashboard file
-├── assets/
-│   └── blinkit.jpg     # Dashboard documentation image
+|── blinkit.jpg     # Dashboard documentation image
 └── README.md
 
 - Medium-sized outlets contribute significantly to overall sales.
