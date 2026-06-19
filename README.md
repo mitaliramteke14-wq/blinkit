@@ -51,9 +51,9 @@ Blinkit operates across multiple outlet types, geographic tiers, and product cat
 
 | Metric / KPI | Consolidated Value | Business Significance |
 | :--- | :---: | :--- |
-| 💰 **Total Sales** | `$997.16K` | Aggregate revenue health across the delivery pipeline |
+| 💰 **Total Sales** | `997.16K` | Aggregate revenue health across the delivery pipeline |
 | 📦 **No. of Items** | `7K` | Total product volume/SKUs processed and cleared |
-| 📊 **Average Sales** | `$141.00` | Mean revenue generated per unit item |
+| 📊 **Average Sales** | `141.00` | Mean revenue generated per unit item |
 | ⭐ **Average Rating** | `3.92 / 5.0` | Consolidated customer satisfaction benchmark |
 
 ---
@@ -81,7 +81,7 @@ Dynamic filtering mechanics allowing cross-filtering across all visual tokens:
 ## 💡 Key Business Insights & Data-Driven Strategy
 
 ### 🥇 1. Supermarket Type 1 is the Core Revenue Engine
-Supermarket Type 1 drives **$787.55K (~79% of total revenue)**. Interestingly, the average value per item remains tightly bounded across all outlet formats (~$141). This explicitly proves that Type 1's dominance is driven entirely by **high transaction volume velocity** rather than premium item sales.
+Supermarket Type 1 drives **787.55K (~79% of total revenue)**. Interestingly, the average value per item remains tightly bounded across all outlet formats (~141). This explicitly proves that Type 1's dominance is driven entirely by **high transaction volume velocity** rather than premium item sales.
 
 * **Recommendation:** Allocate capital toward optimizing order-fulfillment workflows, staffing, and inventory storage depth specifically at Type 1 hubs to maximize order throughput.
 
@@ -91,12 +91,12 @@ Supermarket Type 1 drives **$787.55K (~79% of total revenue)**. Interestingly, t
 * **Recommendation:** Implement strict dark-store inventory buffering and shelf-availability automation for these two categories to mitigate stockouts.
 
 ### 📍 3. Tier 2 & Tier 3 Cities Outperform Tier 1 Metros
-Tier 2 ($393.15K) and Tier 3 ($341.42K) locations heavily outpace Tier 1 ($262.59K) markets in total sales. This indicates rapid quick-commerce adoption and lower competitive saturation in growing suburban/regional areas.
+Tier 2 (393.15K) and Tier 3 (341.42K) locations heavily outpace Tier 1 (262.59K) markets in total sales. This indicates rapid quick-commerce adoption and lower competitive saturation in growing suburban/regional areas.
 
 * **Recommendation:** Aggressively redirect expansion budgets toward regional hubs, using Tier 1 formats primarily as brand anchors.
 
 ### 📐 4. Medium-Sized Outlets Offer Peak Scale Efficiency
-Medium-sized outlets capture the largest market share split (**$370.99K / 37.2%**). They strike the perfect sweet spot between physical infrastructure overhead costs and sales volume output.
+Medium-sized outlets capture the largest market share split (**370.99K / 37.2%**). They strike the perfect sweet spot between physical infrastructure overhead costs and sales volume output.
 
 * **Strategic Playbook:** The highest-ROI expansion plan for Blinkit is deploying **Medium-sized, Supermarket Type 1 fulfillment centers throughout Tier 2 cities.**
 
@@ -107,9 +107,10 @@ Medium-sized outlets capture the largest market share split (**$370.99K / 37.2%*
 ```text
 blinkit-dashboard/
 │
-├── BlinkIT Dashboard.pbix        # Power BI Dashboard file
-├── blinkit.jpg                   # Dashboard preview image
-└── README.md                     # Documentation
+├── BlinkIT Dashboard.pbix            # Power BI Dashboard file
+├── BlinkIT Grocery Data Excel.xlsx   # Raw Dataset
+├── blinkit.jpg                       # Dashboard preview image
+└── README.md                         # Documentation
 ```
 ---
 
